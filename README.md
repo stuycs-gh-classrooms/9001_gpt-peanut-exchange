@@ -1,8 +1,8 @@
 # ChatGPT on Graphics
 
-### Name0: YOUR NAME HERE
-### Name1: TABLE_BUDDY NAME HERE
-### Name2: TABLE_BUDY+ NAME HERE 
+### Name0: Daniel He
+### Name1: Derek Zang
+### Name2: Raven (Ruiwen) Tang
 ### Name3: TABLE_BUDY+ NAME HERE (if applicable, delete this line if not)
 
 ---
