@@ -163,4 +163,4 @@ if __name__ == '__main__':
     d = Drawing(500,500,"y")
     d.parse_file('script.txt')
 
-#Note: This program uses the `graphics` module, which provides a simple interface for creating graphics in Python. If you don't have this module installed, you can install it using pip: `pip install graphics`. Also, make sure to replace `script.txt` in the `parse_file` method with the actual filename of your script file.
+#Note: This program uses the `graphics` module, which provides a simple interface for creating graphics in Python. If you don't have this module installed, you can install it using pip: `pip install graphics`. Also, make sure to replace `script.txt` in the `parse_file` method with the actual filename of your script file
